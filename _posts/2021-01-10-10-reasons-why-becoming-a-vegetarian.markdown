@@ -2,10 +2,12 @@
 layout: post
 title: "10 reasons why becoming a vegetarian"
 date: 2021-01-10 00:36:56 +0100
-categories: think cooking
+related_image: https://images.unsplash.com/photo-1489450278009-822e9be04dff?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1352&q=80
+categories:
+  - Thinking
+  - Cooking
 ---
 
-10 reasons why becoming a vegetarian
 The best thing you can do for yourself and beyond
 
 Two years ago, I decided to become vegetarian together with my partner. It tooks me those two years to become a 100% vegetarian. I was still eating meat at restaurants in the beginning, or being pushed by my family and tempted by traditionnal food such as «raclette» or «foie gras» during Christmas time. I had to put myself to the next level each time. First stopping meat at home and during the week, only allowing meat in restaurants. Then stopping meat even in restaurants. Warning my relatives about the diet change, explaining to them, waiting for them to change their way of thinking and to accept it. Stop eating fish.
@@ -17,7 +19,7 @@ Below, you can read through the 10 reasons that have made their way into my mind
 When you move from a meat diet to a vegan diet, you reduce your impact on the environment of 50%. It is even more impactful than riding a bike instead of a car everyday to go to work!
 
 At the link below you can find out a detailed infographic about why animal agriculture is the most destructive industry of the planet:
-https://static1.squarespace.com/static/544dc5a1e4b07e8995e3effa/t/54e4d927e4b0aaf066abfcf0/1424283943008/Cowspiracy-Infographic-Metric.png
+![Cowspiracy Infographic](https://static1.squarespace.com/static/544dc5a1e4b07e8995e3effa/t/54e4d927e4b0aaf066abfcf0/1424283943008/Cowspiracy-Infographic-Metric.png)
 
 Some particular funny fact is when we learn at school to take a bath instead of a shower, whereas we are not teach not to eat a burger which needs 3000L water, equivalent to 2 months showering. Furthermore, it is important to notice that 51% of the global greenhouse gas emission is due to livestock and their byproducts whereas transports is responsible for only 13% of them. Farming needs space
 

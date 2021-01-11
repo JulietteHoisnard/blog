@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "VS Code Shortcuts"
-date: 2021-01-09 23:36:56 +0100
-categories: Coding
+title: "Cook like a boss"
+date: 2021-01-11 22:26:56 +0100
+categories: Cooking
 ---
 
-I found very helpful shortcuts in Visual Studio Code so here they are:
+List of useful cooking websites for vegetarian and 'gourmand'people
 
 - Ctrl + . => Fix issues menu appears ( example: solve EsLint issues)
 - Ctrl + Shift + K => Delete one line
