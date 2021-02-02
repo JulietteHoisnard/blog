@@ -2,6 +2,7 @@
 layout: post
 title: "VS Code Shortcuts"
 date: 2021-01-09 23:36:56 +0100
+related_image: https://miro.medium.com/max/600/1*u9Rw2zT1kQl0I0Oa-9vc_g.png
 categories: Coding
 ---
 
