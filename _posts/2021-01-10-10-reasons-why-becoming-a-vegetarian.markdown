@@ -1,14 +1,11 @@
 ---
 layout: post
-title: "10 reasons why becoming a vegetarian"
+title: "10 reasons why becoming vegetarian"
+subtitle: "A great thing you can do for yourself and beyond"
 date: 2021-01-10 00:36:56 +0100
 related_image: https://images.unsplash.com/photo-1489450278009-822e9be04dff?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1352&q=80
-categories:
-  - Thinking
-  - Cooking
+tags: [thinking, cooking]
 ---
-
-The best thing you can do for yourself and beyond
 
 Two years ago, I decided to become vegetarian together with my partner. It tooks me those two years to become a 100% vegetarian. I was still eating meat at restaurants in the beginning, or being pushed by my family and tempted by traditionnal food such as «raclette» or «foie gras» during Christmas time. I had to put myself to the next level each time. First stopping meat at home and during the week, only allowing meat in restaurants. Then stopping meat even in restaurants. Warning my relatives about the diet change, explaining to them, waiting for them to change their way of thinking and to accept it. Stop eating fish.
 This was a slow pathway but in the end, I am proud I achieved this without forcing myself. I want to advise that it is not by straining yourself that you will succeed, but by questioning yourself about the sense of everything you are doing everyday. It is about stopping burying your head in the sand («faire l’autruche» in French) and facing the facts. We are in perpetual denial and contradiction in our lives and I wanted to change that.
@@ -21,7 +18,7 @@ When you move from a meat diet to a vegan diet, you reduce your impact on the en
 At the link below you can find out a detailed infographic about why animal agriculture is the most destructive industry of the planet:
 ![Cowspiracy Infographic](https://static1.squarespace.com/static/544dc5a1e4b07e8995e3effa/t/54e4d927e4b0aaf066abfcf0/1424283943008/Cowspiracy-Infographic-Metric.png)
 
-Some particular funny fact is when we learn at school to take a bath instead of a shower, whereas we are not teach not to eat a burger which needs 3000L water, equivalent to 2 months showering. Furthermore, it is important to notice that 51% of the global greenhouse gas emission is due to livestock and their byproducts whereas transports is responsible for only 13% of them. Farming needs space
+Some particular funny fact is when we learn at school to take a bath instead of a shower, whereas we are not teach not to eat a burger which needs 3000L water, equivalent to 2 months showering. Furthermore, it is important to notice that 51% of the global greenhouse gas emission is due to livestock and their byproducts whereas transports is responsible for only 13% of them. Farming needs space.
 
 2 - Respect the animals.
 Who is able to kill an animal nowadays in our Western countries? Not that many of us, and even fewer without a twinge of disgust or a terrible feeling. But that does not prevent us from savouring them and at the same time raising them on giant, unhealthy farms, where they are mistreated all their lives. The animals that we prefer to find on our plates are subjected to experiments, gene crossbreeding, and unsustainable living conditions. By reducing global meat consumption, we will return to human-sized farms more suitable for better living conditions. By stopping your meat consumption, you will strive against eating animals born, raised and killed for the sole purpose of satisfying the palates of a few unethical humans.
