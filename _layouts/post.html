@@ -7,12 +7,9 @@ layout: default
   itemscope
   itemtype="http://schema.org/BlogPosting"
 >
+  <a href="/blog/">Back</a>
+  <br />
   <header class="post-header">
-    {%- if page.related_image -%}
-    <div class="ratio_16_9">
-      <img src="{{ page.related_image }}" alt="Header image " />
-    </div>
-    {%- endif -%}
     <h2 class="post-title p-name" itemprop="name headline">
       {{ page.title | escape }}
     </h2>
@@ -32,13 +29,23 @@ layout: default
         ></span
       >
       {%- endif -%}
+     </span>
+            {% if page.tags.size > 0 %}
+            {% for tag in page.tags %}
+            <span>| Tags: </span>
+            <a class="post-meta" href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+            {% endif %}
     </p>
+    <h4>{{ page.subtitle | escape }}</h4>
+    {%- if page.related_image -%}
+    <div class="ratio_16_9">
+      <img src="{{ page.related_image }}" alt="Header image " />
+    </div>
+    {%- endif -%}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">{{ content }}</div>
 
-  {%- if site.disqus.shortname -%} {%- include disqus_comments.html -%} {%-
-  endif -%}
-
-  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+  <a class="u-url" href="{{ page.url | relative_url }}"></a>
 </article>
