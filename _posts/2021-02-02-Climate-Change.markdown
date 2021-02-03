@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Climate change - The greenhouse effect"
-subtitle: "Chapter One"
+title: "The greenhouse effect"
+subtitle: "Climate change: Chapter One"
 date: 2021-02-02 20:26:56 +0100
 related_image: https://images.unsplash.com/photo-1570358934836-6802981e481e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80
 tags: [thinking]
