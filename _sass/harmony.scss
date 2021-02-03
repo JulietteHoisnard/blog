@@ -46,5 +46,4 @@ $on-laptop: 800px !default;
 }
 
 // Import partials.
-@import "minima_harmony/base", "minima_harmony/layout",
-  "minima_harmony/syntax-highlighting";
+@import "harmony/base", "harmony/layout", "harmony/syntax-highlighting";
