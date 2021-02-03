@@ -113,11 +113,17 @@ h6 {
   font-weight: $base-font-weight;
 }
 
+h2,
+h3 {
+  font-family: "Montserrat", sans-serif;
+  letter-spacing: 0.5rem;
+}
+
 /**
   * Links
   */
 a {
-  color: $brand-color;
+  color: $text-color;
   text-decoration: none;
 
   &:visited {
@@ -259,6 +265,10 @@ table {
 /**
   * Images
   */
+
+.image-size {
+  flex: 0 0 400px;
+}
 div.ratio_16_9 {
   padding-bottom: 56.25%;
   box-sizing: border-box;

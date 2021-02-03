@@ -10,35 +10,39 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "POSTS" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
-        {%- if post.related_image -%}
-        <div class="ratio_16_9"><img src="{{ post.related_image }}" alt="Header image " /></div>
-        {%- endif -%}
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <h4>
-            {{ post.subtitle | escape }}
-        </h4>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <div class="post-card">
+          {%- if post.related_image -%}
+          <div class="image-size">
+            <div class="ratio_16_9"><a class="post-link" href="{{ post.url | relative_url }}"><img src="{{ post.related_image }}" alt="Header image" /></a></div>
+          </div>
+          {%- endif -%}
+          <div class="post-text">
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            <h4>
+                {{ post.subtitle | escape }}
+            </h4>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }} | Tags:</span>
+            {% if site.feed_show_tags != false and post.tags.size > 0 %}
+            {% for tag in post.tags %}
+            <a class="post-meta" href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+            {% endif %}
 
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-        {% if site.feed_show_tags != false and post.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          {% for tag in post.tags %}
-          <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
+
+            {%- if site.show_excerpts -%}
+              {{ post.excerpt }}
+            {%- endif -%}
+          </div>
         </div>
-        {% endif %}
       </li>
       {%- endfor -%}
     </ul>
