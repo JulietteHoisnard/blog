@@ -3,7 +3,7 @@ layout: post
 title: "How to build a Ruby-On-Rails and React app from scratch"
 subtitle: "A quiz for people"
 date: 2021-02-09 15:26:56 +0100
-related_image: https://images.unsplash.com/photo-1602924097911-a78ca1af38c6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1318&q=80
+related_image: https://images.unsplash.com/photo-1594175157129-8d36c241217c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y2F0JTIwY29tcHV0ZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 tags: [coding]
 ---
 
@@ -90,6 +90,7 @@ tags: [coding]
    ```shell
    sudo apt install postgresql
    sudo systemctl disable postgresql
+   sudo systemctl stop postgresql
    ```
 
 1. Launch docker and connect to the DB:
