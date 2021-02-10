@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "How to build a Ruby-On-Rails and React app from scratch"
-subtitle: "A quiz for people"
+subtitle: ""
 date: 2021-02-09 15:26:56 +0100
-related_image: https://images.unsplash.com/photo-1594175157129-8d36c241217c?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8Y2F0JTIwY29tcHV0ZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+related_image: https://images.unsplash.com/photo-1589652717406-1c69efaf1ff8?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mzl8fGNhdCUyMGNvbXB1dGVyfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 tags: [coding]
 ---
 
