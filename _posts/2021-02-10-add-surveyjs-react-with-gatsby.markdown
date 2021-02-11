@@ -62,3 +62,7 @@ export const Form = () => {
 ```
 
 1. Call the component in your index.js
+   Start the local development server with
+   ```shell
+   npm run develop
+   ```
