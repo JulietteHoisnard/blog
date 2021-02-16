@@ -9,7 +9,7 @@ tags: [coding]
 
 1. I assume you already created a Gatsby app by following the [Quick Start documentation](https://www.gatsbyjs.com/docs/quick-start/)
 
-1. Create your survey here: https://surveyjs.io/Survey/Builder/
+1. Create your survey [here](https://surveyjs.io/Survey/Builder/).
 
 1. Click on 'Embed Survey' and copy only the surveyJSON. Example:
 
@@ -41,25 +41,25 @@ tags: [coding]
 
 1. Create a component Form.js in pages > components with the following content:
 
-```react
-import * as React from "react";
-import * as Survey from "survey-react";
-import "survey-react/survey.css";
+   ```react
+   import * as React from "react";
+   import * as Survey from "survey-react";
+   import "survey-react/survey.css";
 
-export const Form = () => {
-  // Paste your surveyJSON here
+   export const Form = () => {
+     // Paste your surveyJSON here
 
-  const surveyJSON = { ... }
+     const surveyJSON = { ... }
 
-  //Define a callback methods on survey complete
-  const onComplete = (survey) => {
-    //Write survey results into database
-    console.log("Survey results: " + JSON.stringify(survey.data));
-  };
+     //Define a callback methods on survey complete
+     const onComplete = (survey) => {
+       //Write survey results into database
+       console.log("Survey results: " + JSON.stringify(survey.data));
+     };
 
-  return <Survey.Survey json={json} onComplete={onComplete} />;
-};
-```
+     return <Survey.Survey json={json} onComplete={onComplete} />;
+   };
+   ```
 
 1. Call the component in your index.js
    Start the local development server with
