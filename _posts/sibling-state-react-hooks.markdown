@@ -17,7 +17,7 @@ tags: [coding]
 
     export default App = () => {
 
-    const [footprint, setFootprint] = useState(false);
+    const [footprint, setFootprint] = useState({});
     return (
     <div className="App">
       <Child1 setFootprint={setFootprint} />
@@ -27,22 +27,30 @@ tags: [coding]
 
 );
 
-````
-
 1. Child1:
 
-```node
-import React from "react";
-import "./styles.css";
+   ```node
+   import React from "react";
+   import "./styles.css";
 
-export default const Child1({setFootprint}) {
-
-}
-````
+   export default const Child1({setFootprint}) {
+     onMouseEnter={() => {
+       setFootprint = (true)
+     }}
+     onMouseLeave={() => {
+       setFootprint = (false)
+     }}
+   }
+   ```
 
 1. Child2:
 
    ```node
    import React from "react";
    import "./styles.css";
+
+   export default const Child2({footprint}) {
+    if (footprint) message = <div>FOOTPRINT AVAILABLE</div>
+    return message
+   }
    ```
