@@ -16,13 +16,13 @@ tags: [coding]
    import Child2 from ...
 
     export default App = () => {
-
-    const [footprint, setFootprint] = useState({});
-    return (
-    <div className="App">
-      <Child1 setFootprint={setFootprint} />
-      <Child2 footprint={footprint} />
-    </div>
+      const [footprint, setFootprint] = useState(false);
+      return (
+      <div className="App">
+        <Child1 setFootprint={setFootprint} />
+        <Child2 footprint={footprint} />
+      </div>
+    )}
    ```
 
 );
@@ -35,10 +35,10 @@ tags: [coding]
 
    export default const Child1({setFootprint}) {
      onMouseEnter={() => {
-       setFootprint = (true)
+       setFootprint(true)
      }}
      onMouseLeave={() => {
-       setFootprint = (false)
+       setFootprint(false)
      }}
    }
    ```
@@ -50,7 +50,7 @@ tags: [coding]
    import "./styles.css";
 
    export default const Child2({footprint}) {
-    if (footprint) message = <div>FOOTPRINT AVAILABLE</div>
+    if (footprint) const message = <div>FOOTPRINT AVAILABLE</div>
     return message
    }
    ```
