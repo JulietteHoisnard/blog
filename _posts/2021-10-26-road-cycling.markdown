@@ -3,7 +3,7 @@ layout: post
 title: "Road cycling"
 subtitle: ""
 date: 2021-10-26 10:36:56 +0100
-related_image: https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dw8a5aa91f/images/full/full_2021_/2021/full_2021_ultimate-cf-sl-8-us_2861_bu-bk_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F2F2F2
+related_image: https://media.istockphoto.com/id/673085378/photo/cyclist-riding-mountain-road-on-racing-bike.jpg?b=1&s=170667a&w=0&k=20&c=VZ8a2mI8bjwmn0sJvu3OmgYrHaCNRqNy4P6xilBnxwI=
 tags: [cycling]
 ---
 
