@@ -3,7 +3,7 @@ layout: post
 title: "Road cycling"
 subtitle: ""
 date: 2021-10-26 10:36:56 +0100
-related_image: https://images.unsplash.com/photo-1598662779094-110c2bad80b5?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTJ8fGtleWJvYXJkfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+related_image: https://www.canyon.com/dw/image/v2/BCML_PRD/on/demandware.static/-/Sites-canyon-master/default/dw8a5aa91f/images/full/full_2021_/2021/full_2021_ultimate-cf-sl-8-us_2861_bu-bk_P5.jpg?sw=874&sfrm=png&q=90&bgcolor=F2F2F2
 tags: [cycling]
 ---
 
