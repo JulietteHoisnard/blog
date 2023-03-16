@@ -22,7 +22,8 @@ npx create-react-app my-project-frontend --template typescript
 cd my-project-frontend
 ```
 
-**OOOR**
+**OOOR**<br>
+
 **Create a react application with Vite (RECOMMENDED)**
 Why should you use Vite instead of Create-React-App? Two links to understand the current stand:
 https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/
