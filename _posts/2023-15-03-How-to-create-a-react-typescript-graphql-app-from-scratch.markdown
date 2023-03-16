@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to create a React appliciton from scratch"
+title: "How to create a React application from scratch"
 subtitle: "Including Vite, React Router, Typescript, Tailwind, MSAL authentification, tests and production setup"
 date: 2023-03-13 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1507778031059-d74c30b52585?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80
@@ -156,7 +156,7 @@ The msal library makes use of the context API, so make sure to wrap the app in t
 
 **6. Configure a .env page to run in local**
 
-```
+```shell
   VITE_STAGE=local
   VITE_API_GATEWAY_URL="http://localhost:8001/gql"
   VITE_REDIRECT_URI="http://localhost:3000"
