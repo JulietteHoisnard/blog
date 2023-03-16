@@ -139,8 +139,7 @@ module.exports = {
 **5. Add authentication system**
 If your organization/product is using azure/Microsoft to connect, check this page:
 https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-react
-Follow this for a better use of the library:
-https://blog.logrocket.com/using-msal-react-authentication/
+Another useful page: https://blog.logrocket.com/using-msal-react-authentication/
 Start by installing the msal-react library and its peer dependencies:
 
 ```shell
@@ -153,6 +152,17 @@ The msal library makes use of the context API, so make sure to wrap the app in t
 <MsalProvider instance={pca}>
   <App />
 </MsalProvider>
+```
+
+**6. Configure a .env page to run in local**
+
+```
+  VITE_STAGE=local
+  VITE_API_GATEWAY_URL="http://localhost:8001/gql"
+  VITE_REDIRECT_URI="http://localhost:3000"
+  VITE_API_GATEWAY_REST="http://localhost:8001/rest"
+  VITE_USE_MSAL=true
+  VITE_API_GATEWAY_MOCK_DATA=false
 ```
 
 X. You need to **configure your production server to support client-side routing before deploying your app**:
