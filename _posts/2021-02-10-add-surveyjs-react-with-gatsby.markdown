@@ -4,7 +4,7 @@ title: "How to add SurveyJS React to Gatsby"
 subtitle: ""
 date: 2021-02-10 15:26:56 +0100
 related_image: https://www.meme-arsenal.com/memes/732d1b1716f4f493280b1ab23b19612d.jpg
-tags: [coding]
+tags: [coding, tech]
 ---
 
 1. I assume you already created a Gatsby app by following the [Quick Start documentation](https://www.gatsbyjs.com/docs/quick-start/)

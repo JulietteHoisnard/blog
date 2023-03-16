@@ -4,7 +4,7 @@ title: "Handle sibling state with React useState hook"
 subtitle: ""
 date: 2021-02-16 15:26:00 +0100
 related_image: https://images.unsplash.com/photo-1589458497992-baa225ead18a?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OXx8aG9vayUyMGZpc2hpbmd8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
-tags: [coding]
+tags: [coding, tech]
 ---
 
 1. Parent:

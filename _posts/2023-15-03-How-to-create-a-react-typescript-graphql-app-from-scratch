@@ -1,0 +1,151 @@
+layout: post
+title: "AI: How far can this go?"
+subtitle: "Advantages and threats of the usage of AI"
+date: 2023-03-13 15:10:00 +0100
+related_image: https://images.unsplash.com/photo-1507778031059-d74c30b52585?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80
+tags: [tech, coding]
+
+---
+
+1. **Create a repo in Github**
+   Clone your repo to work from your computer and go inside this repo:
+
+```shell
+git clone git@github.com:my-project.gi
+cd my-project
+```
+
+2. **Create a react app with typescript (OLD)** (files will be named in tsx and ts)
+
+```shell
+npx create-react-app my-project-frontend --template typescript
+cd my-project-frontend
+```
+
+**OOOR**
+**Create a react application with Vite (RECOMMENDED)**
+Why should you use Vite instead of Create-React-App? Two links to understand the current stand:
+https://blog.logrocket.com/vite-3-vs-create-react-app-comparison-migration-guide/
+
+https://luketheweb.dev/blog/what-is-vite-and-why-should-you-use-it-instead-of-create-react-app
+
+```shell
+npm init vite@latest vite-project --typescript react
+```
+
+3. **Install a react router**
+
+```shell
+npm install --save react-router-dom
+```
+
+Now add your router in your app.tsx:
+
+```javascript
+import React from "react";
+import "./App.css";
+import { Route, Routes, BrowserRouter } from "react-router-dom";
+import Plans from "./components/Plans";
+import Teams from "./components/Teams";
+import NavBar from "./components/NavBar";
+
+function App() {
+  return (
+    <div className="h-screen w-full">
+      <NavBar />
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Plans />} />
+          <Route path="teams" element={<Teams />} />
+        </Routes>
+      </BrowserRouter>
+    </div>
+  );
+}
+
+export default App;
+```
+
+Then you can run and see your app on the localhost in the browser:
+
+```shell
+npm start
+```
+
+4. **Add Tailwind with postcss:**
+
+```shell
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init
+```
+
+Configure it in the tailwind.config.js which was just created:
+
+```typescript
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{html,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+};
+```
+
+My config is:
+
+```typescript
+const colors = require("tailwindcss/colors");
+
+module.exports = {
+  content: ["./src/**/*.{jsx,tsx,ts,js}"],
+  theme: {
+    screens: {
+      sm: "640px",
+      md: "768px",
+      lg: "1024px",
+      xl: "1280px",
+      "2xl": "1536px",
+    },
+    // You can custom the colors
+    colors: {
+      transparent: "transparent",
+      current: "currentColor",
+      black: colors.black,
+      white: colors.white,
+      gray: colors.gray,
+      // etc
+      yellow: {
+        50: "rgb(254 252 232)",
+        100: "rgb(254 249 195)",
+        // etc
+      },
+      dark: {
+        300: "#XXXXXX",
+        600: "#XXXXXX",
+        800: "#XXXXXX",
+      },
+    },
+    extend: {
+      // you can extend the tailwind classes, or just add new ones like this:
+      boxShadow: { yourname: "Xpx Xpx Xpx Xpx rgba(X, X, X, X)" },
+    },
+  },
+  //need this plugin to customize checkboxes for example
+  plugins: [require("@tailwindcss/forms")],
+};
+```
+
+**5. Add authentication system**
+If your organization/product is using azure/Microsoft to connect, follow this tutorial:
+https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-react
+
+```shell
+npm install @azure/msal-browser @azure/msal-react @azure/msal-common
+```
+
+X. You need to **configure your production server to support client-side routing before deploying your app**:
+
+```shell
+
+```

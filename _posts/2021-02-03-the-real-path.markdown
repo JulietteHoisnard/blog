@@ -4,7 +4,7 @@ title: "The right path"
 subtitle: "How to find the right path for your image?"
 date: 2021-02-03 15:26:56 +0100
 related_image: https://images.unsplash.com/photo-1602924097911-a78ca1af38c6?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1318&q=80
-tags: [coding]
+tags: [coding, tech]
 ---
 
 - In the case where several files are referring to the same link, you have to provide an absolute path with `/` at the beginning for the reference at the root. See below:\
