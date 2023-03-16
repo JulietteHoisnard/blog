@@ -3,7 +3,7 @@ layout: post
 title: "AI: How far can this go?"
 subtitle: "Advantages and threats of the usage of AI"
 date: 2023-03-13 15:10:00 +0100
-related_image: https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
+related_image: https://images.unsplash.com/photo-1675557009483-e6cf3867976b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 tags: [thinking, tech, coding]
 ---
 

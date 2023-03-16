@@ -1,10 +1,10 @@
+---
 layout: post
 title: "How to create a React appliciton from scratch"
 subtitle: "Including Vite, React Router, Typescript, Tailwind, MSAL authentification, tests and production setup"
 date: 2023-03-13 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1507778031059-d74c30b52585?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80
 tags: [tech, coding]
-
 ---
 
 1. **Create a repo in Github**
@@ -137,11 +137,22 @@ module.exports = {
 ```
 
 **5. Add authentication system**
-If your organization/product is using azure/Microsoft to connect, follow this tutorial:
+If your organization/product is using azure/Microsoft to connect, check this page:
 https://learn.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-react
+Follow this for a better use of the library:
+https://blog.logrocket.com/using-msal-react-authentication/
+Start by installing the msal-react library and its peer dependencies:
 
 ```shell
 npm install @azure/msal-browser @azure/msal-react @azure/msal-common
+```
+
+The msal library makes use of the context API, so make sure to wrap the app in the MsalProvider. pca is a public client application object.
+
+```javascript
+<MsalProvider instance={pca}>
+  <App />
+</MsalProvider>
 ```
 
 X. You need to **configure your production server to support client-side routing before deploying your app**:
