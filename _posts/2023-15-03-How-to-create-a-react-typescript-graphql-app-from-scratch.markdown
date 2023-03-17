@@ -147,10 +147,10 @@ Start by installing the msal-react library and its peer dependencies:
 npm install @azure/msal-browser @azure/msal-react @azure/msal-common
 ```
 
-The msal library makes use of the context API, so make sure to wrap the app in the MsalProvider. pca is a public client application object.
+The msal library makes use of the context API, so make sure to wrap the app in the MsalProvider.
 
 ```javascript
-<MsalProvider instance={pca}>
+<MsalProvider instance={msalInstance}>
   <App />
 </MsalProvider>
 ```
@@ -164,6 +164,12 @@ The msal library makes use of the context API, so make sure to wrap the app in t
   VITE_API_GATEWAY_REST="http://localhost:8001/rest"
   VITE_USE_MSAL=true
   VITE_API_GATEWAY_MOCK_DATA=false
+```
+
+**7. Add tests**
+
+```shell
+
 ```
 
 X. You need to **configure your production server to support client-side routing before deploying your app**:

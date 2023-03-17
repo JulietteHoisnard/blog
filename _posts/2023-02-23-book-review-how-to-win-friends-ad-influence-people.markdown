@@ -2,7 +2,7 @@
 layout: post
 title: "'How to win friends and influence people' from Dale Carnegie"
 subtitle: "The more you'll get out of this book, the more you'll get out of your life"
-date: 2023-01-22 15:10:00 +0100
+date: 2023-02-23 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
 tags: [thinking][books reviews]
 ---
