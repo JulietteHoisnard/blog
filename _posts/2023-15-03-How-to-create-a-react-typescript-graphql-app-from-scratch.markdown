@@ -80,6 +80,17 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init
 ```
 
+Configure the postcss.config.cjs file:
+
+```typescript
+module.exports = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
+  },
+};
+```
+
 Configure it in the tailwind.config.js which was just created:
 
 ```typescript
@@ -167,6 +178,143 @@ The msal library makes use of the context API, so make sure to wrap the app in t
 ```
 
 **7. Add tests**
+
+The Vite template doesn't include any test runner, we have to choose one. We decide to use Vitest as it is well develop to work easily with a Vite application. We will not use Jest, though Jest is currently the best up-to-date, with a large community, test runner for a React app (+ it is a native Vite test runner).
+
+```shell
+npm install -D vitest
+```
+
+Write the script for the tests in the package.json. The command vitest run "vitest watch" in dev, and "vitest run" in the CI. Specify the environment or it will not run correctly:
+
+```json
+"scripts": {
+    // ...
+    "test": "vitest watch --environment jsdom"
+  },
+```
+
+Add the config to use jsdom in the Vite configuration file:
+
+```typescript
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  test: {
+    environment: "jsdom",
+  },
+});
+```
+
+Also, you need to have @testing-library/react installed to run your tests. Example:
+
+```typescript
+import { expect, test, describe } from "vitest";
+import React from "react";
+import { render, screen } from "@testing-library/react";
+import Avatar from "../components/Avatar";
+import { AuthenticationContext } from "../contexts";
+import { cleanup } from "@testing-library/react";
+
+describe("when the avatar is displayed", () => {
+  test("basic test works", () => {
+    expect(Math.sqrt(4)).toBe(2);
+  });
+  test("should display the default unsplash picture if auth default provided", () => {
+    const auth = {
+      accessToken: "MockAPI",
+      userId: "123",
+      email: "evita.muzic@bayer.com",
+      jobTitle: "admin",
+      avatar:
+        "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    };
+    const setAuth = null;
+    render(
+      <AuthenticationContext.Provider value={{ auth, setAuth }}>
+        <Avatar />
+      </AuthenticationContext.Provider>
+    );
+    const img = document.querySelector("img") as HTMLImageElement;
+    expect(img).toBeTruthy();
+    const svg = document.querySelector("svg") as SVGSVGElement;
+    expect(svg).toBeFalsy();
+    expect(img.src).toContain("unsplash");
+    cleanup();
+  });
+```
+
+**8. Add Apollo Client and GraphQL**
+
+First install dependencies:
+
+```shell
+npm install @apollo/client graphql
+```
+
+Then initialize your client:
+
+```typescript
+const client = new ApolloClient({
+  uri: "https://flyby-router-demo.herokuapp.com/",
+  cache: new InMemoryCache(),
+});
+```
+
+uri specifies the URL of our GraphQL server.
+cache is an instance of InMemoryCache, which Apollo Client uses to cache query results after fetching them.
+
+Then wrap your App in the context provider ApolloProvider:
+
+```typescript
+root.render(
+  <ApolloProvider client={client}>
+    <App />
+  </ApolloProvider>
+);
+```
+
+I advise you to use [GraphQL Code Generator](https://the-guild.dev/graphql/codegen):
+
+```shell
+npm install -D @graphql-codegen/cli
+```
+
+This tool generates code from your schema, especially typed queries and typed types that you can perfectly use in a Typescript application.
+In your package.json, add a script to start the code generation:
+
+```json
+"graphql:generate": "graphql-codegen"
+```
+
+Then you config the codegen.yml file:
+
+```yml
+overwrite: true
+schema: "./schemaTest.graphql"
+documents: "src/**/!(*.d).{js,jsx,ts,tsx}"
+generates:
+  src/generated/graphql.tsx:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-react-apollo
+    config:
+      withHooks: true
+      withComponent: false
+      withMutationFn: false
+```
+
+Add useful predefined scalars to your schema:
+
+```shell
+npm install graphql-scalars
+```
+
+**X. 404 page**
 
 ```shell
 
