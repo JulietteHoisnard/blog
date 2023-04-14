@@ -2,7 +2,7 @@
 layout: post
 title: "How to create a React application from scratch"
 subtitle: "Including Vite, React Router, Typescript, Tailwind, MSAL authentification, tests and production setup"
-date: 2023-03-13 15:10:00 +0100
+date: 2023-03-15 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1507778031059-d74c30b52585?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1674&q=80
 tags: [tech, coding]
 ---
