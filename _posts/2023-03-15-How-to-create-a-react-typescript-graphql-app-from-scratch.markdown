@@ -227,7 +227,7 @@ describe("when the avatar is displayed", () => {
     const auth = {
       accessToken: "MockAPI",
       userId: "123",
-      email: "evita.muzic@bayer.com",
+      email: "evita.muzic@tourdefrance.com",
       jobTitle: "admin",
       avatar:
         "https://images.unsplash.com/photo-1607746882042-944635dfe10e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
@@ -314,13 +314,34 @@ Add useful predefined scalars to your schema:
 npm install graphql-scalars
 ```
 
-**X. 404 page**
+**9. Handle a local state with Recoil**
 
 ```shell
-
+npm i recoil
 ```
 
-X. You need to **configure your production server to support client-side routing before deploying your app**:
+Wrap your app inside RecoilRoot:
+
+```typescript
+import React from "react";
+import {
+  RecoilRoot,
+  atom,
+  selector,
+  useRecoilState,
+  useRecoilValue,
+} from "recoil";
+
+function App() {
+  return (
+    <RecoilRoot>
+      <CharacterCounter />
+    </RecoilRoot>
+  );
+}
+```
+
+**X. 404 page**
 
 ```shell
 
