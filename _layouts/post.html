@@ -31,8 +31,8 @@ layout: default
       {%- endif -%}
      </span>
             {% if page.tags.size > 0 %}
-            {% for tag in page.tags %}
             <span>| Tags: </span>
+            {% for tag in page.tags %}
             <a class="post-meta" href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
             {% endfor %}
             {% endif %}
