@@ -4,7 +4,7 @@ title: "'Getting things done' by David Allen"
 subtitle: "The art of stress-free productivity"
 date: 2023-12-26 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1525972385596-02ad3049150b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-tags: [thinking][books reviews]
+tags: [thinking, books reviews]
 ---
 
 David Allen, in his book 'Getting things done', gives keys to improve the way you organize your life. By giving you a simple approach to clear your mind, you will be more productive, achieve greater results and unleash your creativity.

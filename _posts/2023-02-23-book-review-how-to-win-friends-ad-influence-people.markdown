@@ -4,7 +4,7 @@ title: "'How to win friends and influence people' from Dale Carnegie"
 subtitle: "The more you'll get out of this book, the more you'll get out of your life"
 date: 2023-02-23 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1511632765486-a01980e01a18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80
-tags: [thinking][books reviews]
+tags: [thinking, books reviews]
 ---
 
 Recently I read "How to win friends and influence people" by Dale Carnegie. This book answers the need of many people: What do adults really want to study? Is it mathematics, is it psychology? None of these. After health topics, it is to learn to develop skills in human relationships, in an easy way with examples and concrete action. And that is exactly what and how this book is teaching you.
