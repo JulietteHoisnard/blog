@@ -211,7 +211,7 @@ export default defineConfig({
 
 Also, you need to have @testing-library/react installed to run your tests. Example:
 
-```typescript
+```tsx
 import { expect, test, describe } from "vitest";
 import React from "react";
 import { render, screen } from "@testing-library/react";
@@ -234,7 +234,7 @@ describe("when the avatar is displayed", () => {
     };
     const setAuth = null;
     render(
-      <AuthenticationContext.Provider value={{ auth, setAuth }}>
+      <AuthenticationContext.Provider value={% raw %}{{ auth, setAuth }}{% endraw %}>
         <Avatar />
       </AuthenticationContext.Provider>
     );
