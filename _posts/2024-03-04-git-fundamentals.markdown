@@ -78,33 +78,70 @@ Case D: If you want to remove the last commits of a branch and set it back to th
  git reset --hard sha1
 ```
 
-3. **Branching**
+3. **Working with remotes**
 
-Case A:
-To merge a branch B into your current branch C using rebase in Git, you would follow these steps:
-Make sure you are in the right branch (branch C):
-
-```shell
- git checkout C
-```
-
-Rebase:
+If you git clone a repo from Github for example, you will
+If you’ve cloned a repository (by running git clone), and then run
 
 ```shell
- git rebase B
+ git remote
 ```
 
-Resolve any conflicts:
+you should at least see origin — that is the default name Git gives to the server you cloned from.
+If you run
 
 ```shell
-git rebase --continue
+ git remote -v
 ```
 
-After resolving conflicts (if any) and completing the rebase, you can push the changes to the remote repository if necessary:
+you can see the URLs that Git has stored for the shortname to be used when reading and writing to that remote.
+
+You can add a remote:
 
 ```shell
-git push origin C --force
+git remote add <shortname> <url>
 ```
 
-Be cautious when using --force as it will overwrite the history of the remote branch C.
-Be aware that using rebase can rewrite the commit history, so it's important to communicate with your team if you're working on a shared branch.
+For example you add this git remote add pb https://github.com/paulboone/ticgit, now you can run git fetch pb, it accessible locally for your machine.
+
+Why do we need several remotes? For example:
+
+- if the project is hosted on GitHub and GitLab.
+- If we deploy in prod via git, we save on GitHub and we push on prod.
+- If we want to clone a repo in local on my computer, in another folder.
+
+If you want to see more information about a particular remote, you can use the <span style="color:red">git remote show <remote></span> command.
+
+You can rename <span style="color:red">git remote rename pb paul</span> or remove a remote <span style="color:red">git remote remove paul</span>. Now if you run git remote, there is only origin left.
+
+4. **Tagging**
+
+List tags:
+
+```shell
+ git tag
+ OR
+ git tag -l
+ OR
+ git tag -l "v1.8.5*"
+```
+
+Creating tags:
+
+```shell
+ git tag
+ OR
+ git tag -l
+ OR
+ git tag -l "v1.8.5*"
+```
+
+5. **Aliasing**
+   Most used aliases:
+
+```shell
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.ci commit
+git config --global alias.st status
+```
