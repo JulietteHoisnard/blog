@@ -4,7 +4,7 @@ title: "'Getting things done' by David Allen"
 subtitle: "The art of stress-free productivity"
 date: 2023-12-26 15:10:00 +0100
 related_image: https://images.unsplash.com/photo-1525972385596-02ad3049150b?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
-tags: [thinking, books reviews]
+tags: [thinking, books]
 ---
 
 David Allen, in his book 'Getting things done', gives keys to improve the way you organize your life. By giving you a simple approach to clear your mind, you will be more productive, achieve greater results and unleash your creativity.
@@ -52,7 +52,7 @@ Last tip is to separate the lists according to the place / the tools you need at
 - Read / Review
   etc.
 
-David Allen also mentions the Tickler file system, which is a system where you can have files in all of the 'pockets' corresponding to the coming 30 days, and pockets per month, where you can just put allyour tasks inside and define on which day to do what while never forgetting a single item.
+David Allen also mentions the Tickler file system, which is a system where you can have files in all of the 'pockets' corresponding to the coming 30 days, and pockets per month, where you can just put all your tasks inside and define on which day to do what while never forgetting a single item.
 
 Be also aware of the energy that a task requires. Depending on your level of available focus, you can not maybe start the budget-planning session review after an interview of 2 hours.
 
