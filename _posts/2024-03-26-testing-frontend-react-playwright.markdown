@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing woth Playwright"
+title: "Testing with Playwright"
 subtitle: "The art of testing"
 date: 2024-03-26 18:10:00 +0100
 related_image: https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png
