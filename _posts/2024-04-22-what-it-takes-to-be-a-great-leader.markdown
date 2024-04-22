@@ -12,15 +12,15 @@ Well, at Netlight we believe that everyone can be a leader. You can be a leader 
 
 This is my attempt of summarizing what I learned in this module.
 
-1. About leadership styles
+# 1. About leadership styles
 
-A. Situational leadership
+## A. Situational leadership
 
 With situational leadership types, the idea is to modify your default leadership style to address the situation. Maybe you have a default type, but if you learn to navigate these 4 types based on the situation, you can adapt to your team and to the circonstances:
 
 ![Situational leadership types](https://www.researchgate.net/profile/Reece-Oakes/publication/327406140/figure/fig1/AS:666905442537473@1536014056930/Situational-Leadership-Model.png)
 
-B. Tribal leadership
+## B. Tribal leadership
 
 In Tribal Leadership, Dave Logan and co-writers show leaders how to assess their organization's tribal culture on a scale from one to five.
 
@@ -28,14 +28,29 @@ In Tribal Leadership, Dave Logan and co-writers show leaders how to assess their
 
 When it comes to Tribal Leadership, you can try to identify in which of the different levels does an individual or your team fall into. It is a great tool to identify which part of the culture you can influence at your company or at a client. Then you can have a huge impact by elevating the culture to the next level.
 
+## C. Be a leader, not a boss
 
-2. About inclusive leadership
+What is the difference between a leader and a boss?
+
+I remember when I was working for an automotive company 5 years ago, the Buyers Team Lead came to me once with a request about something I could provide him. I agreed to provide it to him. Then this guy just stayed silently behind my back and waited that I hand over to him the job. First of all, I was so shocked to see this behavior, I had a hard time delivering what he requested of me and tried to make him leave. I was so shocked to see this guy, being paid twice my salary, seating and doing nothing, waiting for me to work for him, so that thanks to my contribution, he could shine in front of his bosses and get a reward. What the hell was that. Spoiler: I quitted this company a long time ago, and I am very happy I did it, to be far away from that kind of sharks.
+
+Well, what is the problem with such a boss? 
+First, he was not trusting me to deliver something he requested, and had to watch me working as if I am a kid in kindergarten, who needed to be watched. Second, he was not doing anything at all at that moment, so my contribution was costing 3 times my salary/time spend on the task. And overall, he was taking credit of my work to shine in front of his own boss. Lastly, he was taking away my autonomy to decide what was most important to work on.
+
+On the opposite, at Netlight, we talk about leaders all the time. What does it mean to be a leader in comparison to a boss? 
+
+A leader is a person who is knowledgeable, who admits mistakes. It is a person who gives ideas and directions instead of giving orders. It is a person who earns and deserves respect, as well as working together to achieve the goals. A leader doesn't reign by fear, or doesn't need to impose him/herself as a boss does.
+
+So please please please, be a leader, not a boss, and make your team happy to work with you and get the people around you to be supportive and self-motivated. 
+
+
+# 2. About inclusive leadership
 
 To be a great leader nowadays, it is important to consider things such as inclusive leadership in the way you lead people. Indeed, as we are more and more hiring people from everywhere in the world, as well as people from different gender, religion, background, it is important to deal with this diversity, give equal chances to everyone and learn how to take the most out of it as a leader.
 
 Inclusive leaders will consider inclusion as everyone's responsibility, not just HRs.
-This kind of leader will search how to redefine the rules instead of unquestioningly following them, foster a consistent implementation. Such leaders are authentic, which means that they will have built an environment where people can express themselves freely and without fear, because he or she will have shown curiosity, humility and vulnerability to their own team.
-Thanks to this behavior, it will bring psychological safety to everyone around the leader.
+This kind of leader will search how to redefine the rules instead of unquestioningly following them, and foster a consistent implementation of inclusive behaviors. Such leaders are authentic, which means that they will have built an environment where people can express themselves freely and without fear, because he or she will have shown curiosity, humility and vulnerability to their own team.
+Thanks to this behavior, it will bring psychological safety to everyone around.
 
 Now what is the key to be an inclusive leader?
 
@@ -55,7 +70,7 @@ Two great resources on inclusive leadership:
 https://hbr.org/2023/09/what-makes-an-inclusive-leader
 https://hbr.org/2020/03/the-key-to-inclusive-leadership
 
-3. About teams and coaching
+# 3. About teams and coaching
 
 I learned about two key tools about teams and coaching, and especially understanding the functionment of a team.
 
@@ -73,7 +88,7 @@ From one team to the other, especially in tech, it is difficult to know what oth
 
 When you freshly join a team, we call this step "forming". You meet your team and get to know them, everything looks fine. Then you figure out that you expect someone to do something in a certain way, and they don't meet the expectations! That's the phase of "storming". Normally, just a clear discussion to address the issue is enough to clarify who has to do what, and what are the expectations from both sides. While everything is clear, it is time for the "norming" phase, which is the moment to define what have to be done to workand deliver at the best level together as a team. When you reach that level, you are "performing". The comes the time of "adjourning", which is a time you take to celebrate on your achievements, and capitalize on what you have learned on the way.
 
-4. About building trust
+# 4. About building trust
 
 Building trust is a real topic in consultancy. Basically, sales people are connecting you, the consultant, with a client, where you join for maybe one month, maybe 6 months, maybe 2 years, but usually you have a vision on only a few months in advance. And then, in this very short time, you have to build a connection with your client, understand their needs, and deliver a great work which matches their needs. That is very challenging. In order to do that, building trust is one of the main tool that you can use to leverage the quality of your delivery, and enjoy it.
 
@@ -92,19 +107,24 @@ First, you have to build trust, by showing your technical skills in the case of 
 There are many things that you can do to build trust which are summarized into 5 steps:
 
 - Engage
-  First step is to engage with your client: your client is putting a bet on you, on the fact that maybe you are going to show yourself to be helpful to them. Be generous, show directly what you can provide to your client for free or for a small amount of their time. If clients come to the point that they reach out to a consultancy or to an advisor, it means that they found out an issue for which they don't have the right resource to resolve it.
+  
+First step is to engage with your client: your client is putting a bet on you, on the fact that maybe you are going to show yourself to be helpful to them. Be generous, show directly what you can provide to your client for free or for a small amount of their time. If clients come to the point that they reach out to a consultancy or to an advisor, it means that they found out an issue for which they don't have the right resource to resolve it.
 
 - Listen
-  Listen actively to your client, ask questions around, observe,show that you care about what your client is saying.
+
+Listen actively to your client, ask questions around, observe,show that you care about what your client is saying.
 
 - Frame
-  When you listened enough to your client, you are able to define and encapsulate the problem of your client.
+
+When you listened enough to your client, you are able to define and encapsulate the problem of your client.
 
 - Envision
-  Don't go too fast to giving the solution! The idea here is to, together with your client, build the ideal final product, the ideal state of your company.
+
+Don't go too fast to giving the solution! The idea here is to, together with your client, build the ideal final product, the ideal state of your company.
 
 - Commit
-  Once you've built this vision on how the final state shouldlook like you have to determine:
+
+Once you've built this vision on how the final state shouldlook like you have to determine:
 
 * what stands in the way of achieving the solution,
 * what the involved parties are willing to do about it,
