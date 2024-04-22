@@ -67,8 +67,8 @@ The key to be an inclusive leader relies on these 5 key points:
 
 Two great resources on inclusive leadership:
 
-https://hbr.org/2023/09/what-makes-an-inclusive-leader
-https://hbr.org/2020/03/the-key-to-inclusive-leadership
+- [What makes an inclusive leader](https://hbr.org/2023/09/what-makes-an-inclusive-leader)
+- [The key to inclusive leadership](https://hbr.org/2020/03/the-key-to-inclusive-leadership)
 
 # 3. About teams and coaching
 
@@ -82,7 +82,7 @@ When you are in a position of leadership, your leadership styles can contribute 
 
 The second tool is Tuckman's 5 Stages of Team Development
 
-![Tuckman's five stages of team development](https://images.squarespace-cdn.com/content/v1/6348398d9d21fd6277c64f96/3d428a86-8ca0-4c8d-af1d-cd9040cc14a9/Five+dysfunctions+of+a+team+pyramid.png?format=2500w)
+![Tuckman's five stages of team development](https://www.recipesforwellbeing.org/wp-content/uploads/2023/01/253-5-stages-of-team-development_landscape-1536x864.jpg)
 
 From one team to the other, especially in tech, it is difficult to know what other people are accountable for.
 
@@ -134,5 +134,4 @@ Once you've built this vision on how the final state should look like you have t
 * when and how to check in on progress,
 * what key deadlines loom ahead.
 
-Great summary of the book "The Trusted Advisor" by Charles Green:
-https://static1.squarespace.com/static/5245a9c6e4b038b5cbe9a684/t/597e36a2ebbd1ad69448444d/1501443746421/The+Trusted+Advisor+Summary.pdf
+[Great summary of the book "The Trusted Advisor" by Charles Green](https://static1.squarespace.com/static/5245a9c6e4b038b5cbe9a684/t/597e36a2ebbd1ad69448444d/1501443746421/The+Trusted+Advisor+Summary.pdf)
