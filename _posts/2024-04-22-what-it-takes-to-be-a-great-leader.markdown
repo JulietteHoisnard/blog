@@ -22,7 +22,12 @@ With situational leadership types, the idea is to modify your default leadership
 
 B. Tribal leadership
 
+In Tribal Leadership, Dave Logan and co-writers show leaders how to assess their organization's tribal culture on a scale from one to five.
+
 ![The 5 tribal leadership stages](https://www.emra.org/siteassets/emresident/images/articles/2021/10-oct/48-5-editor.png?w=600)
+
+When it comes to Tribal Leadership, you can try to identify in which of the different levels does an individual or your team fall into. It is a great tool to identify which part of the culture you can influence at your company or at a client. Then you can have a huge impact by elevating the culture to the next level.
+
 
 2. About inclusive leadership
 
