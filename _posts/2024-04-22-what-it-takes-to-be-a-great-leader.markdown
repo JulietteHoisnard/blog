@@ -7,20 +7,23 @@ related_image: https://media.licdn.com/dms/image/D4D12AQH3rTA10xuA1Q/article-cov
 tags: [leadership, thinking]
 ---
 
-I am currently taking a module on Leadership, proposed by my company Netlight. But who am I to be a leader? Am I old enough? Am I experienced enough? Am I the target audience of this training module?
+I am currently taking a module on Leadership, proposed by my company Netlight. 
+
+But who am I to be a leader? Am I old enough? Am I experienced enough? Am I the target audience of this training module?
+
 Well, at Netlight we believe that everyone can be a leader. You can be a leader and a follower depending on the circumstances. You can be a leader in the topic you are the most expert on or the most interested in. You can be a follower in a topic where you don't know much, but you want to learn more in. So anyone can be a leader, and this module gives anyone the right tool to be a successful leader and can benefit all, from the CEO of a company to a mature enough employee.
 
 This is my attempt of summarizing what I learned in this module.
 
-# 1. About leadership styles
+## 1. About leadership styles
 
-## A. Situational leadership
+# A. Situational leadership
 
 With situational leadership types, the idea is to modify your default leadership style to address the situation. Maybe you have a default type, but if you learn to navigate these 4 types based on the situation, you can adapt to your team and to the circonstances:
 
 ![Situational leadership types](https://www.researchgate.net/profile/Reece-Oakes/publication/327406140/figure/fig1/AS:666905442537473@1536014056930/Situational-Leadership-Model.png)
 
-## B. Tribal leadership
+# B. Tribal leadership
 
 In Tribal Leadership, Dave Logan and co-writers show leaders how to assess their organization's tribal culture on a scale from one to five.
 
@@ -28,7 +31,7 @@ In Tribal Leadership, Dave Logan and co-writers show leaders how to assess their
 
 When it comes to Tribal Leadership, you can try to identify in which of the different levels does an individual or your team fall into. It is a great tool to identify which part of the culture you can influence at your company or at a client. Then you can have a huge impact by elevating the culture to the next level.
 
-## C. Be a leader, not a boss
+# C. Be a leader, not a boss
 
 What is the difference between a leader and a boss?
 
@@ -44,7 +47,7 @@ A leader is a person who is knowledgeable, who admits mistakes. It is a person w
 So please please please, be a leader, not a boss, and make your team happy to work with you and get the people around you to be supportive and self-motivated. 
 
 
-# 2. About inclusive leadership
+## 2. About inclusive leadership
 
 To be a great leader nowadays, it is important to consider things such as inclusive leadership in the way you lead people. Indeed, as we are more and more hiring people from everywhere in the world, as well as people from different gender, religion, background, it is important to deal with this diversity, give equal chances to everyone and learn how to take the most out of it as a leader.
 
@@ -70,7 +73,7 @@ Two great resources on inclusive leadership:
 - [What makes an inclusive leader](https://hbr.org/2023/09/what-makes-an-inclusive-leader)
 - [The key to inclusive leadership](https://hbr.org/2020/03/the-key-to-inclusive-leadership)
 
-# 3. About teams and coaching
+## 3. About teams and coaching
 
 I learned about two key tools about teams and coaching, and especially understanding the functionment of a team.
 
@@ -88,7 +91,7 @@ From one team to the other, especially in tech, it is difficult to know what oth
 
 When you freshly join a team, we call this step "forming". You meet your team and get to know them, everything looks fine. Then you figure out that you expect someone to do something in a certain way, and they don't meet the expectations! That's the phase of "storming". Normally, just a clear discussion to address the issue is enough to clarify who has to do what, and what are the expectations from both sides. While everything is clear, it is time for the "norming" phase, which is the moment to define what have to be done to workand deliver at the best level together as a team. When you reach that level, you are "performing". The comes the time of "adjourning", which is a time you take to celebrate on your achievements, and capitalize on what you have learned on the way.
 
-# 4. About building trust
+## 4. About building trust
 
 Building trust is a real topic in consultancy. Basically, sales people are connecting you, the consultant, with a client, where you join for maybe one month, maybe 6 months, maybe 2 years, but usually you have a vision on only a few months in advance. And then, in this very short time, you have to build a connection with your client, understand their needs, and deliver a great work which matches their needs. That is very challenging. In order to do that, building trust is one of the main tool that you can use to leverage the quality of your delivery, and enjoy it.
 
