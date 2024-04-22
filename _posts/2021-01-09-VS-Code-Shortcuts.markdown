@@ -9,6 +9,8 @@ tags: [coding, tech]
 
 I found very helpful shortcuts in Visual Studio Code so here they are:
 
+For Windows / Linux:
+
 - Ctrl + . => Fix issues menu appears ( example: solve EsLint issues)
 - Ctrl + Shift + K => Delete one line
 - Ctrl + Alt + Down/Up => Duplicate the selected line
@@ -18,3 +20,17 @@ I found very helpful shortcuts in Visual Studio Code so here they are:
 - F2 => Rename everywhere the selected variable
 - Ctrl + space => import functions/components in React
 - Alt + Shift + Left/Right => select element to select parent
+- Ctrl + Shift + P => brings up the Command Palette
+- Ctrl + P => Search files name
+
+For Mac:
+
+- Cmd + Shift + K => Delete one line
+- Option + Down/Up => Move the line Up or Down
+- Cmd + ` => Switch window
+- F2 => Rename everywhere the selected variable
+- Control + space => import functions/components in React
+- Cmd + option + arrow left / right => go through the open tabs / files
+- Cmd + control + arrow left / right => open file in a new panel
+- Cmd + Shift + P => brings up the Command Palette
+- Cmd + P => Search files name
