@@ -42,7 +42,7 @@ The key to be an inclusive leader relies on these 5 key points:
 - Show humility: They are modest about capabilities, admit mistakes, and create the space for others to contribute.
 - Be aware of your own biases: They show awareness of personal blind spots, as well as flaws in the system, and work hard to ensure a meritocracy.
 - Be curious about others: They demonstrate an open  mindset and deep curiosity about others, listen without judgment, and  seek with empathy to understand those around them.
-- Cultivate cultural intelligence: They are attentive to others’ cultures and adapt as required.
+- Cultivate cultural intelligence: They are attentive to others' cultures and adapt as required.
 - And finally foster effective collaboration: They empower others, pay attention to diversity of thinking and psychological safety, and focus on team cohesion.
 
 Two great resources on inclusive leadership:
@@ -72,8 +72,8 @@ When you freshly join a team, we call this step "forming". You meet your team an
 
 Building trust is a real topic in consultancy. Basically, sales people are connecting you, the consultant, with a client, where you join for maybe one month, maybe 6 months, maybe 2 years, but usually you have a vision on only a few months in advance. And then, in this very short time, you have to build a connection with your client, understand their needs, and deliver a great work which matches their needs. That is very challenging. In order to do that, building trust is one of the main tool that you can use to leverage the quality of your delivery, and enjoy it.
 
-![The Trust equation from Charles Green](https://images.prismic.io/sketchplanations/b004a386-d4af-489d-9abe-7191ada9bf91_182691644541.jpg?auto=compress%2Cformat&fit=max&w=1920&q=5)
-0
+![The Trust equation from Charles Green](https://images.prismic.io/sketchplanations/b004a386-d4af-489d-9abe-7191ada9bf91_182691644541.jpg?auto=compress%2Cformat&fit=max&w=1920&q=50)
+
 
 How do you develop great skills in building trust? How can you become a trusted advisor?
 
@@ -90,6 +90,7 @@ There are many things that you can do to build trust which are summarized into 5
   First step is to engage with your client: your client is putting a bet on you, on the fact that maybe you are going to show yourself to be helpful to them. Be generous, show directly what you can provide to your client for free or for a small amount of their time. If clients come to the point that they reach out to a consultancy or to an advisor, it means that they found out an issue for which they don't have the right resource to resolve it.
 
 - Listen
+  Listen actively to your client, ask questions around, observe,show that you care about what your client is saying.
 
 - Frame
   When you listened enough to your client, you are able to define and encapsulate the problem of your client.
