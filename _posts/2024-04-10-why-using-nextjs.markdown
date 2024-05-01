@@ -3,7 +3,7 @@ layout: post
 title: "Why should you use Next.js?"
 subtitle: "The tool to build your next application"
 date: 2024-03-26 18:10:00 +0100
-related_image: https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthOg.png
+related_image: https://miro.medium.com/v2/resize:fit:1100/format:webp/1*v3XndYeIsBtk4CkpMf7vmA.jpeg
 tags: [coding, tech]
 ---
 
@@ -24,4 +24,3 @@ Let's see in a few points what are these key ideas that Next.js brings on top of
 
 2. It integrates a routing system with pages and layouts reusable across pages. It uses partial rendering thanks to this routing system, which means that on navigation, only the page components update while the layout won't re-render.
 
-3.
