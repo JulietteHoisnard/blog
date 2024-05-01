@@ -138,3 +138,13 @@ Once you've built this vision on how the final state should look like you have t
 * what key deadlines loom ahead.
 
 [Great summary of the book "The Trusted Advisor" by Charles Green](https://static1.squarespace.com/static/5245a9c6e4b038b5cbe9a684/t/597e36a2ebbd1ad69448444d/1501443746421/The+Trusted+Advisor+Summary.pdf)
+
+
+## 5. About self-leadership
+
+According to Andrew Bryant, self-leadership is the practice of intentionally influencing your thinking, feeling and actions towards your objectives.
+The absence of self-leadership is demonstrated by reactivity, randomness, blame and a victim mind-set. Then, to be able to lead others, you first have to be a leader to yourself.
+To know where you stand, you can measure fundamentals such as your self-awareness, self-learning, self-regulating.
+Self-awareness is your ability to perceive and understand the things that make you who you are as an individual, including your personality, actions, values, beliefs, emotions, and thoughts. Essentially, it is a psychological state in which the self becomes the focus of attention.
+With self-regulating, the goal is to take the opportunities, as in the Latin phrase obportum veniens, which means a favorable wind that brings you towards your port of choice.
+Self-leadership leads to options and opportunities.
