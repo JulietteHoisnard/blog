@@ -14,23 +14,23 @@ Book summary:
 
 "Daring Greatly" by Brené Brown is a book that explores the idea of vulnerability and how embracing it can transform the way we live, love, parent, and lead. The title of the book is inspired by Theodore Roosevelt’s "Man in the Arena" speech, where Roosevelt praises those who are brave enough to fail while daring greatly. Here’s a brief summary of the key points in the book:
 
-    **Vulnerability is Strength**
-     Brown argues that vulnerability is not a sign of weakness but a courageous willingness to face uncertainty, risks, and emotional exposure. This openness can lead to greater joy, belonging, creativity, authenticity, and love.
+- **Vulnerability is Strength**
+Brown argues that vulnerability is not a sign of weakness but a courageous willingness to face uncertainty, risks, and emotional exposure. This openness can lead to greater joy, belonging, creativity, authenticity, and love.
 
-    **The Myth of Vulnerability as Weakness**
-     Society often associates vulnerability with emotions like fear, shame, and uncertainty. Brown encourages readers to see vulnerability as a form of emotional risk that can lead to greater achievement and deeper relationships.
+- **The Myth of Vulnerability as Weakness**
+Society often associates vulnerability with emotions like fear, shame, and uncertainty. Brown encourages readers to see vulnerability as a form of emotional risk that can lead to greater achievement and deeper relationships.
 
-    **Shame Resilience**
-     The book discusses the importance of understanding and combating shame. Brown defines shame as the intensely painful feeling or experience of believing we are flawed and therefore unworthy of love and belonging. She provides strategies for developing resilience to shame and emphasizes the role of vulnerability in overcoming it.
+- **Shame Resilience**
+The book discusses the importance of understanding and combating shame. Brown defines shame as the intensely painful feeling or experience of believing we are flawed and therefore unworthy of love and belonging. She provides strategies for developing resilience to shame and emphasizes the role of vulnerability in overcoming it.
 
-    **The Culture of Scarcity**
-     Brown critiques what she describes as a culture of scarcity—a focus on never having enough or being enough. She urges readers to embrace a mindset of worthiness and abundance.
+- **The Culture of Scarcity**
+Brown critiques what she describes as a culture of scarcity—a focus on never having enough or being enough. She urges readers to embrace a mindset of worthiness and abundance.
 
-    **Wholehearted Living**
-     This concept involves engaging in our lives from a place of worthiness. It means cultivating the courage, compassion, and connection to wake up in the morning and think, "No matter what gets done and how much is left undone, I am enough."
+- **Wholehearted Living**
+This concept involves engaging in our lives from a place of worthiness. It means cultivating the courage, compassion, and connection to wake up in the morning and think, "No matter what gets done and how much is left undone, I am enough."
 
-    **Parenting and Leadership**
-     Brown applies her theories to parenting and leadership, showing how fostering an environment of vulnerability, rather than fear or certainty, can lead to better outcomes in families, schools, workplaces, and communities.
+- **Parenting and Leadership**
+Brown applies her theories to parenting and leadership, showing how fostering an environment of vulnerability, rather than fear or certainty, can lead to better outcomes in families, schools, workplaces, and communities.
 
 "Daring Greatly" challenges us to stop controlling and predicting, to embrace vulnerabilities, and to start engaging with the world from a place of worthiness. Brown’s work is based on extensive research and filled with personal anecdotes, making it accessible and impactful for a wide audience.
 
@@ -54,5 +54,5 @@ I found so enlighting, it explains so much about the society. The first choice o
 "We cultivate love when we allow our most vulnerable and powerful selves to be deeply seen and known, and when we honor the spiritual connection that grows from that offering with trust, respect, kindness, and affection. Love is not something we give or get, it is something that we nurture and grow, a connection that can only be cultivated between two people when it exists within each one of them - we can only love others as much as we love ourselves. Shame, blame, disrespect, betrayal, and the withholding of affection damage the roots from which love grows. Love can only survive these injuries if they are acknowledged, healed and rare."
 
 - **The difference between guilt and shame**
-  We need to separate people from their behaviors. There's a significant difference between saying "You are bad." and "You did something bad." If a child tells a lie, she can change her behavior. If we call the child a liar, then where is the potential for change in that? If we cultivate more guilt self-talk and less shame self-talk, especially with children, it helps to make room for improvement and remove the shame burden that a child might carry all his or her life.
+We need to separate people from their behaviors. There's a significant difference between saying "You are bad." and "You did something bad." If a child tells a lie, she can change her behavior. If we call the child a liar, then where is the potential for change in that? If we cultivate more guilt self-talk and less shame self-talk, especially with children, it helps to make room for improvement and remove the shame burden that a child might carry all his or her life.
 
