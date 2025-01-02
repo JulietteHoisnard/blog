@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cookies essentials"
-subtitle: "Back to fundamentals"
+subtitle: "Back to fundamentals serie"
 date: 2024-03-14 18:10:00 +0100
 related_image: https://images.unsplash.com/photo-1548365328-8c6db3220e4c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 tags: [coding, tech]

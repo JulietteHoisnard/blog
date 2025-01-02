@@ -19,7 +19,7 @@ I want to highlight each of these ways with a punchline or a good example. So he
 
 ## 1 Don't criticize, condemn or complain.
 
-"When dealing with people, let us remember we are not deaing with creatures of logic. We are dealing with creatures of emotionbristling by prejudices and motivated by pride and vanity." "Human nature in action, wrongdoers, blaming everybody but themselves." "A great man shows his greatness by the way he treats little men" - Carlyle
+"When dealing with people, let us remember we are not dealing with creatures of logic. We are dealing with creatures of emotionbristling by prejudices and motivated by pride and vanity." "Human nature in action, wrongdoers, blaming everybody but themselves." "A great man shows his greatness by the way he treats little men" - Carlyle
 
 ## 2 Give honest and sincere appreciation.
 

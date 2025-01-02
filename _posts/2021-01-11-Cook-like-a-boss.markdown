@@ -13,3 +13,5 @@ List of useful cooking websites for vegetarian and 'gourmand' people:
 
 - [Mes gougères aux épinards](https://mesgougeresauxepinards.fr/fr/)
 - [La fée Stéphanie](https://www.lafeestephanie.com/)
+- [Ottolenghi cuisine](https://ottolenghi.co.uk/pages/recipes)
+- [Belly Media](https://belly-media.com/)
