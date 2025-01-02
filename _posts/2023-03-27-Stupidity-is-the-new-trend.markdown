@@ -21,7 +21,5 @@ And it extends beyond social media. Our modern society brings stupidity and medi
 
 When I was in middle school, I often felt a disconnect with some of my classmates, as many seemed to struggle with basic concepts like reading a graph of a linear function. Reflecting on this now, I sometimes worry about the challenges of living in a society where everyone has an equal voice in critical matters, from voting to participating in public discourse. It raises important questions about how we equip individuals with the tools and knowledge to navigate complex societal issues and make informed decisions, based on science, that impact us all.
 
-Are social medias making us stupid? I think this question is funny because it is in a sense more that stupidity is brought upfront by social media.
-
 While these innovations undoubtedly have their place and benefits, they highlight an important question: How do we balance the ease of modern life with the need to cultivate critical thinking, effort, and engagement? Are social medias making us stupid? Yes, social medias make us stupid, it is scientifically proven that it ramollishes our brains. So in a world where information and resources are more accessible than ever, we must ensure that this accessibility empowers us to grow rather than settle for mediocrity.
 
