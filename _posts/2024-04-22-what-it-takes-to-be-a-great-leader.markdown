@@ -3,7 +3,7 @@ layout: post
 title: "What it takes to be a great leader"
 subtitle: "From knowing your leadership style to being an inclusive leader, as well as coaching your teams or colleagues and building trust"
 date: 2024-04-22 18:10:00 +0100
-related_image: https://media.licdn.com/dms/image/D4D12AQH3rTA10xuA1Q/article-cover_image-shrink_720_1280/0/1684910232917?e=1719446400&v=beta&t=W1gVw5r95ldNX62Tu_FpjVEWp8dnqFZbXWZsMl_FCAM
+related_image: https://plus.unsplash.com/premium_photo-1693843012224-6467e74f7199?q=80&w=2960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 tags: [leadership, thinking]
 ---
 
