@@ -50,6 +50,7 @@ Product analytics are primarily used by product teams, but can be used by other 
 
 List of product anaytics software:
 [PostHog](https://posthog.com/product-analytics), Amplitude, Mixpanel, Heap, Pendo, etc.
+A tool like [Datadog](https://www.datadoghq.com/) Datadog can be used for product analytics, but it requires more manual configuration to track data. However, it ultimately provides an integrated platform for both monitoring and security.
 
 **Other services to analyze users behaviors**
 
