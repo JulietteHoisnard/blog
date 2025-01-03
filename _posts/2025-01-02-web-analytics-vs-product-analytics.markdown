@@ -6,7 +6,7 @@ date: 2025-01-02 18:10:00 +0100
 related_image: assets/images/web-analytics-vs-product-analytics.webp
 tags: [tech, coding]
 ---
-1. Web analytics - Monitor your website traffic
+**Web analytics - Monitor your website traffic**
 
 Web analytics are the services and their tools that are designed to analyze the anonymous traffic that happened on your website prior to people converting into creating accounts.
 
@@ -30,7 +30,7 @@ Mainly marketing teams, but also product managers, data scientists, UX designers
 List of web anaytics software:
 [PostHog](https://posthog.com/web-analytics), [GA4](https://developers.google.com/analytics/devguides/collection/ga4), Matomo, see also [List of web analytics software on Wikipedia](https://en.wikipedia.org/wiki/List_of_web_analytics_software)
 
-1. Product analytics - Monitor your users interactions
+**Product analytics - Monitor your users interactions**
 
 Product analytics are designed to help you understand the usage of your product as performed by people that are logged into your product.
 
@@ -51,7 +51,7 @@ Product analytics are primarily used by product teams, but can be used by other 
 List of product anaytics software:
 [PostHog](https://posthog.com/product-analytics), Amplitude, Mixpanel, Heap, Pendo, etc.
 
-1. Other services to analyze users behaviors:
+**Other services to analyze users behaviors**
 
 - Session replay/recordings: it helps diagnose issues and understand user behavior in your product or website. It is based on screen-recording, logs of tracking, network monitoring (analyzing performance of the website in the browser and having a list of network calls).
 - Heatmaps: Identify how to improve the UX of your website.  It shows which parts of a page get missed, which words stick, and if that new pop-up makes users click. End-goal is to increase conversion rate.
