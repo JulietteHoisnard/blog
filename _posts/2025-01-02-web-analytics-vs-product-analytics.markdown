@@ -34,7 +34,7 @@ List of web anaytics software:
 
 Product analytics are designed to help you understand the usage of your product as performed by people that are logged into your product.
 
-It can identify users and help you analyze how different features or sections of your product help your users get value from your business. It helps to improve acquisition and retention based on the insights that you see in product analytics dashboard, 
+It can identify users and help you analyze how different features or sections of your product help your users get value from your business. It helps to improve acquisition and retention based on the insights that you see in product analytics dashboards.
 
 Features:
 - Funnels: Find drop-off across a series of actions
