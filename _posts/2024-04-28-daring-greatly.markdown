@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book summary: 'Daring greatly' by Brené Brown"
-subtitle: "How the courage to be Vulnerabletransforms the way we Live, Love, Parent and Lead"
+subtitle: "How the courage to be vulnerable transforms the way we live, love, parent and lead"
 date: 2024-04-22 18:10:00 +0100
 related_image: https://media.istockphoto.com/id/538478304/photo/tightrope-walker-concept-of-risk-taking-and-challenge.webp?a=1&b=1&s=612x612&w=0&k=20&c=pTwdu5nax0CssmQYE6LMlI7et7iSjf07-_ZveAiPAOI=
 tags: [leadership, thinking, books]
