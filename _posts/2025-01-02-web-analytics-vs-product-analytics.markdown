@@ -3,16 +3,14 @@ layout: post
 title: "Web analytics vs product analytics"
 subtitle: "Providing the right tools as a developer to your product and marketing teams"
 date: 2025-01-02 18:10:00 +0100
-related_image: /assets/images/web-analytics-vs-product-analytics.webp
+related_image: /blog/assets/images/web-analytics-vs-product-analytics.webp
 tags: [tech, coding]
 ---
 **Web analytics - Monitor your website traffic**
 
 Web analytics are the services and their tools that are designed to analyze the anonymous traffic that happened on your website prior to people converting into creating accounts.
 
-The purpose of web analytics is to analyze the anonymous traffic that gets to your SaaS website, with the goal of understanding how to convert that anonymous traffic into known traffic – into people that create accounts in your SaaS.
-
-Features:
+Features:\
 The tools helps you to monitor the traffic on your website and includes features like:
 - Top paths: see the most visited pages on your site
 - Top referrers: Discover where traffic is coming from (redirects, other websites, ads, etc)
@@ -24,10 +22,10 @@ The tools helps you to monitor the traffic on your website and includes features
 - Bounce tracking: Find out when users immediately get out of dodge
 - Duration tracking: Monitor how long users are hanging around
 
-For whom:
+For whom:\
 Mainly marketing teams, but also product managers, data scientists, UX designers, and others can use web analytics to enhance their website or product experience.
 
-List of web anaytics software:
+List of web anaytics software:\
 [PostHog](https://posthog.com/web-analytics), [GA4](https://developers.google.com/analytics/devguides/collection/ga4), Matomo, see also [List of web analytics software on Wikipedia](https://en.wikipedia.org/wiki/List_of_web_analytics_software)
 
 **Product analytics - Monitor your users interactions**
@@ -45,12 +43,12 @@ Features:
 - Stickiness analysis: Learn how many times users perform a specific event in a period of time.
 - Lifecycle analysis: Discover how your active users break down, highlighting those who have recently stopped being active or those who have just become active for the first time ( new, returning, resurrecting, dormant)
 
-For whom:
+For whom:\
 Product analytics are primarily used by product teams, but can be used by other teams like developers, designers, marketing team, etc.
 
-List of product anaytics software:
+List of product analytics software:\
 [PostHog](https://posthog.com/product-analytics), Amplitude, Mixpanel, Heap, Pendo, etc.
-A tool like [Datadog](https://www.datadoghq.com/) Datadog can be used for product analytics, but it requires more manual configuration to track data. However, it ultimately provides an integrated platform for both monitoring and security.
+A tool like [Datadog](https://www.datadoghq.com/) can be used for product analytics, but it requires more manual configuration to track data. However, it ultimately provides an integrated platform for both monitoring and security.
 
 **Other services to analyze users behaviors**
 
