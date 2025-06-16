@@ -3,8 +3,8 @@ layout: post
 title: "I ran the Paris Marathon"
 subtitle: "Pushing back the limits"
 date: 2025-04-24 22:22:00 +0100
-related_image: /blog/assets/images/web-analytics-vs-product-analytics.webp
-tags: [running, sports, triathlon]
+related_image: /blog/assets/images/marathon-paris-2025.jpeg
+tags: [running, sport, triathlon]
 ---
 
 This is it! I ran the Paris Marathon in less than 4hours! I am super proud.
