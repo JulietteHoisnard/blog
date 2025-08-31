@@ -104,5 +104,3 @@ The logistics was a bit complicated for us as we came from Berlin. On the way th
 I am so happy to have overcome this huge challenge. 
 I think that as improvement I could join a triathlon club and train more the swimming part. 
 At the same time I am relieved to have less triathlon pressure until the end of the year and to go back to practice also pole and ballett, as dance is my primary and beloved sport. But I am sure that I will continue to do triathlon, mostly cycling and running. I can't wait for more challenges to come!
-
-![Happy triatheletes](/blog/assets/images/ironman-tours.jpeg)
