@@ -40,11 +40,13 @@ As I ran and trained for the Paris Marathon in April (see my other article about
 
 # Pre-race
 
-We arrived the Thursday before the race, the Ironman being on Sunday. In the late afternoon we did a reconnaissance tour of 70kms of the real planned ride on Sunday. It was very warm (30°C) and I couldn't ride fast at all, I was annoyed by the handlebars position. That didn't give me confidence about what I would be able to do when the time came.
+We arrived the Thursday before the race, the Ironman being on Sunday.
 
 On Friday, together with my partner and friends, we headed to the Ironman village. It was really nicely organized, we could easily get our bib numbers and transition bags, as well as being 'offered' a very nice triathlon backpack as well as a t-shirt of the event (given the price we paid for the bib, not sure it was offered, but it was included in the racebib price). There were great shops around of well-known trademarks branded with the Ironman name (like Lululemon, Zoot, Compresssport, etc). I bought a Compressport headband and some Zoot/Ironman running shorts.
 
-We came back on Saturday for the race briefing in the morning. The briefing was great, and important as you don't want to forget or miss anything. Indeed, the logistics of a triathlon are generally complex, and there are numerous penalties for certain offenses, such as losing your water bottle on the road, seeing it and not picking it up, or drafting for more than 12 seconds on the bike. During the race, I saw referee motorcycles pass me many times and discreetly move up the entire column of cyclists. So be careful to respect overtaking rules and don't draft!
+In the late afternoon we did a reconnaissance tour of 70kms of the real planned ride on Sunday. It was very warm (30°C) and I couldn't ride fast at all, I was annoyed by the aerobars position. That didn't give me confidence about what I would be able to do when the time will come.
+
+We came back tot he Ironman Village on Saturday for the race briefing in the morning. The briefing was great, and important as you don't want to forget or miss anything. Indeed, the logistics of a triathlon are generally complex, and there are numerous penalties for certain offenses, such as losing your water bottle on the road, seeing it and not picking it up, or drafting for more than 12 seconds on the bike. During the race, I saw referee motorcycles pass me many times and discreetly move up the entire column of cyclists. So be careful to respect overtaking rules and don't draft!
 
 We also came with our bikes, to store our them overnight already in the transition hall. In Tours, it is a covered and enclosed hall, which I find reassuring in terms of theft and also in terms of heat, which can cause inner tubes to explode, and then the next day it would not be fun to get started.
 
@@ -76,7 +78,7 @@ Quick change to running mode. I just hang up my bike, change shoes, remove the h
 
 # Running
 
-The running part goes on the Parc Honoré de Balzac which is an island on the Cher. I find it pretty hard as the weather starts to be really hot, like 28°C, and there are quite some up and downs as we have to go on the bridge, then leave it to go down in the park etc. There are a few very short steep meters sometimes. At some point I see a friend who had overtaken me on his bike and whom I overtake while running, which gives me a little energy for a moment. Unlike the Paris Marathon, where I kept pace almost like a metronome and never stopped, here my pace is not very steady, ranging from 5'15“/km to 5'40”/km. I walk twice on the mini hills and stop twice very briefly to drink water. I finally manage and see the finish line! I'm so relieved to get there!
+The running part goes on the Parc Honoré de Balzac which is an island on the Cher. I find it pretty hard as the weather starts to be really hot, like 26°C, and there are quite some up and downs as we have to go on the bridge, then leave it to go down in the park etc. There are a few very short steep meters sometimes. At some point I see a friend who had overtaken me on his bike and whom I overtake while running, which gives me a little energy for a moment. Unlike the Paris Marathon, where I kept pace almost like a metronome and never stopped, here my pace is not very steady, ranging from 5'15“/km to 5'40”/km. I walk twice on the mini hills and stop twice very briefly to drink water. I finally manage and see the finish line! I'm so relieved to get there!
 
 # Results
 
@@ -94,8 +96,8 @@ Total 5:42:17
 # Post-race
 
 I was surprised and happy to be less destroyed than after a full marathon or after a long cycling ride like l'Etape. I couldn't wait to stop running, but when I stopped I felt good after 5 minutes and was a bit disappointed I couldn't push more during the run!
-I found one of my friend, we had some food and chat together. Then I headed towards the massage area. I got a massage and immediately feel much better. After that I joined my partner and friends. I walked very slowy in the direction of the transition area to get back my bike and other equipment. Everything went smoothly, and you just needed to give back your 
-We had a very nice time at diner in the evening!
+I found one of my friend, we had some food and chat together. Then I headed towards the massage area. I got a massage and immediately felt much better. After that I joined my partner and friends. I walked very slowy in the direction of the transition area to get back my bike and other equipment. Everything went smoothly, and you just needed to give back your ankle tracker.
+We had a very nice time at dinner in the evening: we ate a lot, burgers and big desserts!
 
 The logistics was a bit complicated for us as we came from Berlin. On the way there we took a train to Saarbrücken then rented a car there and headed to a family place near Paris. The next day we drove to Tours in the morning. Same on the way back. So in total we had 4 days off dedicated to transits which is not how I enjoy spending my days off! Next Ironman will be closer to my place, probably Erkner for a 70.3, Hamburg or Frankfurt for a full one if it ever happens!
 
