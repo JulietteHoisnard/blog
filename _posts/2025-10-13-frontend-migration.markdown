@@ -49,7 +49,7 @@ There is also a need to re-add everything related to marketing and tracking. The
 
 # General challenges raised while doing a migration
 
-You can see a lot of similarities between a frontend migration and any other type of migration. By discussing with a Cloud Migration expert from Netlight, he highlighted 3 common patterns between any migrations:
+There are many parallels between a frontend migration and other types of migrations. In a conversation with a Cloud Migration expert from Netlight, he shared with me his three identified common patterns that apply universally to migrations:
 
 The first one is the organisational challenge. The change management skills are very important in order to do a migration. Migrations introduce new tools, workflows, and technologies, which means teams must adapt their ways of working. For example, in the case of a frontend migration like Angular.js to React, developers not only need to learn a new framework but also shift to understand new concepts like React’s component-based architecture or declarative programming. This transformation often disrupts established routines, and can lead to initial resistance or a dip in productivity. To obtain an effective change, the management layers needs to be involved with clear communication about the reasons for the migration, Part of my job at the client was also to coach, review pull requests, so that team members can switch effectively from Angular to React.
 
@@ -59,7 +59,7 @@ The third one is to decide to do an incremental migration. You always have to fi
 
 # Conclusion
 
-Migrating from Angular.js to React (or any system) goes beyond technical tasks: it’s about balancing business priorities, team dynamics, and modern technology needs. My client’s journey shows universal challenges like incremental progress, change management, and breaking work into manageable pieces. While migrations can be complex, they also present powerful opportunities to modernize, improve workflows, and future-proof systems. With the right strategies and collaboration, any migration can become a catalyst for growth and innovation.
+Migrating from Angular.js to React goes beyond technical tasks: it’s about balancing business priorities, team dynamics, and modern technology needs. My client’s journey shows universal challenges like incremental progress, change management, and breaking work into manageable pieces. While migrations can be complex, they also present powerful opportunities to modernize, improve workflows, and future-proof systems. With the right strategies and collaboration, any migration can become a catalyst for growth and innovation.
 
 
 More topics:
