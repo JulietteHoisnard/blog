@@ -9,7 +9,7 @@ tags: [coding, tech]
 
 I am using a lot the Source Control UI of Visual Code Studio and feel stupid not to know all the secrets of git, plus it seems to be more handy to use the command line with complex cases, so here is my take on the git commands and tricks that are essentials for you to know!
 
-1. **Git commit**
+# **Git commit**
    When you only write
 
 ```shell
@@ -44,7 +44,7 @@ To have a comment done in Visual Studio Code you can run:
 git config core.editor "code --wait"
 ```
 
-2. **Undoing things**
+# **Undoing things**
 
 I found the Git documentation pretty confusing about undoing things, so here is my attempt to make it clearer:
 
@@ -78,7 +78,7 @@ Case D: If you want to remove the last commits of a branch and set it back to th
  git reset --hard sha1
 ```
 
-3. **Working with remotes**
+# **Working with remotes**
 
 If you git clone a repo from Github for example, you will
 If you’ve cloned a repository (by running git clone), and then run
@@ -114,7 +114,7 @@ If you want to see more information about a particular remote, you can use the <
 
 You can rename <span style="color:red">git remote rename pb paul</span> or remove a remote <span style="color:red">git remote remove paul</span>. Now if you run git remote, there is only origin left.
 
-4. **Tagging**
+# **Tagging**
 
 List tags:
 
@@ -136,7 +136,7 @@ Creating tags:
  git tag -l "v1.8.5*"
 ```
 
-5. **Aliasing**
+# **Aliasing**
    Most used aliases:
 
 ```shell

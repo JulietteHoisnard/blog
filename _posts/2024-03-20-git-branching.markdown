@@ -11,7 +11,7 @@ This is the second article about git fundamentals. It is largely inspired by the
 
 Here we are focusing on branching!
 
-1. **Merging**
+# **Merging**
 
 Case A:
 To merge a branch B into your current branch C using rebase in Git, you would follow these steps:

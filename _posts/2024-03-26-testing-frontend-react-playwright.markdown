@@ -7,7 +7,7 @@ related_image: https://miro.medium.com/v2/resize:fit:646/1*gMiUPuRGC36nxZHe2zthO
 tags: [coding, tech]
 ---
 
-1. How to set up Playwright in your React application?
+ # How to set up Playwright in your React application?
 
 ```shell
 Run npm init playwright@latest
@@ -38,7 +38,7 @@ If you have snapshots to be updated:
 npx playwright test --update-snapshots or -u
 ```
 
-2. Good practices
+# Good practices
 
 Use snapshots and or screenshots!! It will save you a crazy amount of time.
 
@@ -48,12 +48,12 @@ Use the data-testid="string" attribute to reach the items you want to test easil
 
 Try to test as much as possible things which are independant from your database content. Then the tests are reliable and strong.
 
-3. Screenshot testing VS snapshot testing.
+# Screenshot testing VS snapshot testing.
 
 What is the difference between screenshot and snapshot testing?
 Screenshot: Create a screenshot of the UI and save it. Screenshot testing is a type of snapshot testing.
 Snapshot: Snapshot can be that you save just the text for example, and check the difference. It can be also that you generate JSON data structure of the UI to compare. It can be a screenshot.
 
-4. Cannot easily set the tests in the CI/CD pipeline?
+# Cannot easily set the tests in the CI/CD pipeline?
 
 You can use tools to do Pre-Commit Hooks to make sure that we run the tests anytime someone pushes on the frontend folder. For example you can use [Husky](https://typicode.github.io/husky/), which will help you to format, lint and test before you commit or push (you do the setup of your choice).
