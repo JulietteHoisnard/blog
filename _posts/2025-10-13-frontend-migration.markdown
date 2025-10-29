@@ -42,10 +42,11 @@ The company had several feature teams in charge of separated / independant featu
 
 As I just mentioned, some parts of the old codebase were already written in React. So we thought it would be easy to migrate. However, that wasn't quite the case. What happened was that:
 - the quality level was higher on the new codebase: we started to use SonarQube, with a higher test coverage requested, additional rules like limited nested functions depth etc.
-- We introduced type management with Zod instead of with Typescript,
-- Features were already existing and fully coded in React. So it was easy to pick a huge block of code and migrate it. Although, merging a big chunk while the main migration part is still in development is a bad idea, because the developer had to 
+- We introduced type management with Zod instead of with Typescript.
+- Features were already existing and fully coded in React. So it was easy to pick a huge block of code and migrate it. Although, merging a big chunk while the main migration part is still in development is a bad idea, because the developer had to.
+- There was also a need to re-add everything related to marketing and tracking. The marketing team needed to be able to continue using the same tools to see what the users are doing.
 
-There is also a need to re-add everything related to marketing and tracking. The marketing team needs to be able to continue using the same tools to see what users are doing.
+I got a feedback from a former internal senior colleague a few months later. He could express that the goal was to create a "golden path", like a centralized, best-practice-driven approach to the migration roadmap. At the start they were also the gatekeepers to check if the path will be not shorten or built as a side track with different tools or pattern. Coordinating efforts among three to four teams proved challenging, and looking back, he suggested a more incremental approach: starting small, achieving initial success within only one team, and after that, spreading the knowledge and good practices to other teams.
 
 # Did you say AI?
 
@@ -63,7 +64,9 @@ AI-generated code must be, of course, reviewed and refined by experienced develo
 
 There are many parallels between a frontend migration and other types of migrations. In a conversation with a Cloud Migration expert from Netlight, he shared with me his three identified common patterns that apply universally to migrations:
 
-The first one is the organisational challenge. The change management skills are very important in order to do a migration. Migrations introduce new tools, workflows, and technologies, which means teams must adapt their ways of working. For example, in the case of a frontend migration like AngularJS to React, developers not only need to learn a new framework but also shift to understand new concepts like React’s component-based architecture or declarative programming. This transformation often disrupts established routines, and can lead to initial resistance or a dip in productivity. To obtain an effective change, the management layers needs to be involved with clear communication about the reasons for the migration, Part of my job at the client was also to coach, review pull requests, so that team members can switch effectively from Angular to React.
+The first one is the organisational challenge. The change management skills are very important in order to do a migration. Migrations introduce new tools, workflows, and technologies, which means teams must adapt their ways of working. For example, in the case of a frontend migration like AngularJS to React, developers not only need to learn a new framework but also shift to understand new concepts like React’s component-based architecture or declarative programming. This transformation often disrupts established routines, and can lead to initial resistance or a dip in productivity. To obtain an effective change, the management layers needs to be involved with clear communication about the reasons for the migration, Part of my job at the client was also to coach, review pull requests, so that team members can switch effectively from Angular to React. Also, if you do a migration and do not change the way of communication in your company, it will end in the same way as before, as illustrated by the Conway's Law.
+
+![Conway's Law - Image: Jono Hey, Sketchplanations](/blog/assets/images/conways_law.jpg)
 
 Another common thing is to analyse what is the smallest chunk you can migrate without breaking the app. This is why we could see above that my client split the tasks into 2 distinct types of teams: the central migration team, taking care of building the bridges and adapters to facilitate the communication between the new and the old systems, and the feature teams, migrating their independant features and pages.
 
