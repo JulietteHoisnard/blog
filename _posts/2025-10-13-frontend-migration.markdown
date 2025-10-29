@@ -77,13 +77,3 @@ The third one is to decide to do an incremental migration. You always have to fi
 Migrating from AngularJS to React goes beyond technical tasks: it’s about balancing business priorities, team dynamics, and modern technology needs. My client’s journey shows universal challenges like incremental progress, change management, and breaking work into manageable pieces. While migrations can be complex, they also present powerful opportunities to modernize, improve workflows, and future-proof systems. With the right strategies and collaboration, any migration can become a catalyst for growth and innovation.
 
 
-More topics:
-
-Central team to manage the migration.
-What role exactly played this team? What kind of activities should be centralized? How do you share knowledge from this team to other teams? At which point is the team too much challenged and lacking of capacity to be able to review everything?
-
-Was it a good strategy to start the migration in every team instead of trying to migrate only one team at a time, with a bigger power force?
-
-How is AI enabling you to do the migration faster?
-
-
