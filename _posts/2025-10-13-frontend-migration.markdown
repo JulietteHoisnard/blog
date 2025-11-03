@@ -7,7 +7,7 @@ related_image: /blog/assets/images/migration_image.png
 tags: [coding, tech]
 ---
 
-Every legacy migration faces a choice: a big-bang rewrite or a gradual transition. When at Netlight we helped a major German accounting company migrate from AngularJS to React, we discovered the biggest challenge wasn't the old code, but the organisational challenges. This is the story of how we navigated that complexity.
+Every legacy migration faces a choice: a big-bang rewrite or a gradual transition. When at Netlight we helped a major German accounting company migrate from AngularJS to React, we discovered that one of the biggest challenge alongside the old codebase upgrade was the organisational challenge. This is the story of how we navigated that complexity.
 
 # Why do a migration
 
@@ -26,9 +26,9 @@ By migrating from AngularJS to React, organizations can modernize their codebase
 
 # Which strategies to adopt
 
-A migration can be a challenge for a tech company/product. How do you temporarily put the right effort into actually duplicating your existing product, and at the same time continue to produce value?
+A migration can be a challenge for a tech company. How do you temporarily put the right effort into actually duplicating your existing product, and at the same time continue to produce value?
 That was the big challenge of my client, a major player in accounting services for freelancers in Germany. Another challenge they could face was how to enable their teams to transition from great AngularJS developers to great React.js developers.
-They came to the conclusion to use externals to support them overcome these challenges. Externals (consultants from my company as well as freelancers) will support them to kick start the migration without disturbing the current business, as well as coaching and enabling good practices into the new framework. The teams had different approaches: in my team one person from the team was rotating every sprint to get their hands into the migration, to grasp knowledge of the new patterns and to avoid being lost when we hand over the migration work to them. Several team started at the same time to have 1 or 2 external developers supporting the migration of their team's scope.
+They came to the conclusion to use externals to support them overcome these challenges. Externals (consultants from my company as well as freelancers) will support them to kick start the migration without disturbing the current business, as well as coaching and enabling good practices into the new framework. The teams had different approaches: in my team one person from the team was rotating every sprint to get their hands into the migration, to grasp knowledge of the new patterns and to have a continuity when we hand over the migration work to them. Several team started at the same time to have 1 or 2 external developers supporting the migration of their team's scope.
 
 # A zoom on the frontend migration
 
