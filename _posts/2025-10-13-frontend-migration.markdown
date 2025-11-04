@@ -14,7 +14,9 @@ Every legacy migration faces a choice: a big-bang rewrite or a gradual transitio
 Generally speaking, a company needs to do a migration when they see the needs to move to a more modern system, whether it is a cloud migration or a frontend migration. Indeed, in the case of a cloud migration, it can be a pivotal step for businesses striving to stay competitive and innovative in today’s fast-evolving digital landscape. The advantages often includes better scalability, cost efficiency, improved performances, enhanced security, but also disaster recovery and faster time to market.
 For a frontend application, the reasons to do a migration are also numerous:
 In the case of my client, the migration was absolutely needed: AngularJS officially reached its end of life in December 2021. This means no more updates, bug fixes, or security patches are being released by Google. Continuing to use AngularJS carries inherent risks, including security vulnerabilities and technical debt, making migration essential.
+
 React, maintained by Facebook, is one of the most widely used frontend libraries with robust community support and constant updates. Its fast-growing ecosystem ensures access to modern tools, libraries, and best practices, helping developers stay ahead of the curve.
+
 A company becomes more attractive by upgrading to React, because of its broad adoption and rich talent pool. In the example of my client, the market to hire AngularJS engineers is less interesting than the market of React developers. The community is bigger, and finding experts and seniors is easier. New graduates are also more attracted to React, which is a technology that is gaining momentum, unlike AngularJS.
 
 ![Google Trend comparison: React VS AngularJS](/blog/assets/images/google_trends_react_vs_angular.png)
